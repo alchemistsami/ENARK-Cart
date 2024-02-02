@@ -1,0 +1,25 @@
+.image-size{
+    /* height: 20vw; */
+    /* width: 1300px; */
+    overflow: auto;
+    object-fit: cover;
+    object-position:center
+}
+.image-corosole{
+    display: flex;
+    height: 30vw;
+    background-Position: 'center'
+}
+.image-div-home{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 116px;
+}
+.image-p-home{
+    background: black;
+    opacity: 0.8;
+}
+.mr-div-home{
+    margin: 10px
+}
