@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ENARK-Cart/static/css/main.7458e874.css",
+    "main.js": "/ENARK-Cart/static/js/main.32fac794.js",
+    "static/js/787.ce374008.chunk.js": "/ENARK-Cart/static/js/787.ce374008.chunk.js",
+    "index.html": "/ENARK-Cart/index.html",
+    "main.7458e874.css.map": "/ENARK-Cart/static/css/main.7458e874.css.map",
+    "main.32fac794.js.map": "/ENARK-Cart/static/js/main.32fac794.js.map",
+    "787.ce374008.chunk.js.map": "/ENARK-Cart/static/js/787.ce374008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7458e874.css",
+    "static/js/main.32fac794.js"
+  ]
+}
